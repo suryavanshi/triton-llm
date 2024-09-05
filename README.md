@@ -26,6 +26,7 @@ The goal is to implement a language model similar to GPT-2 using the Triton lang
 - [Triton GitHub Repository](https://github.com/triton-lang/triton)
 - [Liger Triton Kernel](https://github.com/linkedin/Liger-Kernel)
 - [FlexAttention](https://pytorch.org/blog/flexattention/)
+- [Cuda Mode Triton talk](https://www.youtube.com/watch?v=DdTsX6DQk24)
 
 
 ## 🤝 Contributing

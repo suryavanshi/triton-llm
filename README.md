@@ -21,12 +21,14 @@ The goal is to implement a language model similar to GPT-2 using the Triton lang
 
 ## 📚 Triton Learning Resources
 
-- [Official Triton Documentation]([https://triton-lang.org/master/index.html](https://triton-lang.org/main/index.html))
+- [Official Triton Documentation](https://triton-lang.org/main/index.html)
 - [OpenAI Triton blog post](https://openai.com/blog/triton)
 - [Triton GitHub Repository](https://github.com/triton-lang/triton)
 - [Liger Triton Kernel](https://github.com/linkedin/Liger-Kernel)
 - [FlexAttention](https://pytorch.org/blog/flexattention/)
 - [Cuda Mode Triton talk](https://www.youtube.com/watch?v=DdTsX6DQk24)
+- [Triton Puzzles by Sasha Rush](https://github.com/srush/Triton-Puzzles)
+- [Triton-viz - Visualization Toolkit](https://github.com/Deep-Learning-Profiling-Tools/triton-viz)
 
 
 ## 🤝 Contributing

@@ -29,6 +29,8 @@ The goal is to implement a language model similar to GPT-2 using the Triton lang
 - [Cuda Mode Triton talk](https://www.youtube.com/watch?v=DdTsX6DQk24)
 - [Triton Puzzles by Sasha Rush](https://github.com/srush/Triton-Puzzles)
 - [Triton-viz - Visualization Toolkit](https://github.com/Deep-Learning-Profiling-Tools/triton-viz)
+- [Triton Internals](https://www.kapilsharma.dev/posts/deep-dive-into-triton-internals/)
+- [Proton - Triton Interpreter](https://github.com/triton-lang/triton/blob/main/docs/meetups/02-20-2024/Proton.pdf)  
 
 
 ## 🤝 Contributing
